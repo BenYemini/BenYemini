@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenYemini
 - 👀 I’m interested in soccer, basketball and programming.
-- 🌱 I’m currently learning computer-science at Reichman University.
+- 🌱 I’m currently learning computer-science at Reichman University, starting my second year.
 - 💞️ I’m looking to collaborate on data oreinted project involving sports.
 
 <!---
